@@ -1,62 +1,62 @@
 # Blood-Bank-Management-System
 Mini Project for DBMS
 
-BLOOD BANK MANAGEMENT SYSTEM
-Getting Started
+## Getting Started
+Project made as part of VTU 5th sem ISE DBMS mini project. The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well. 
 
-Project made as part of VTU 5th sem ISE DBMS mini project. The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well.
-Project File Structure
 
-database - This folder contains a database file which can be used to setup the database.
+### Project File Structure
 
-docs/ - Contains the document files of the project.The docs may not represent the exact behaviour or fearures of the project. Because as upgrades are made on the project there is no guarantee that the same will be reflected on the docs.
+`database` -  This folder contains a database file which can be used to setup the database.
 
-res/ - Contains the resources used in the project such as images, fonts, icons etc.
-Installation
-1.create the database
+`docs/` - Contains the document files of the project.The docs may not represent the exact behaviour or fearures of the project. Because as upgrades are made on the project there is no guarantee that the same will be reflected on the docs.
 
+`res/` - Contains the resources used in the project such as images, fonts, icons etc.
+
+### Installation
+
+#### 1.create the database
 Create a database in your local server with a name blood_bank.
-2.import the database
 
+#### 2.import the database 
 import the .db file present in the database folder.
-3.run the application
 
-if you are running the project locally, the project folder should be placed in the directory that the Apache web server looks for files to serve on your domain by default. Most probably the htdocs folder. After that run the application just by using the url localhost/blood-bank.
-Components
-Languages
+#### 3.run the application
+if you are running the project locally, the project folder should be placed in the directory that the Apache web server looks for files to serve on your domain by default. Most probably the `htdocs` folder. After that run the application just by using the url `localhost/blood-bank`.
 
-    php
-    css
-    sql
+## Components
 
-Development Environment
+### Languages
 
-    Windows 10
+- php
+- css
+- sql
 
-External Resources/Plugins
+### Development Environment
 
-    XAMPP
-    Visual Studio Code
-    Google chrome
+- Windows 10
 
-Notes
-To login to the application
+### External Resources/Plugins
 
-    As admin
+- XAMPP
+- Visual Studio Code
+- Google chrome
 
-    username: SuperAdmin
+## Notes
 
-    password: 12345678
+### To login to the application
+- As admin
 
-    As employee
+    username:   SuperAdmin
+    
+    password:   12345678
+  
+- As employee
 
-    username: test_user
+    username:   test_user
+    
+    password:   qwertyuiop
 
-    password: qwertyuiop
+## License
 
-Contribution Guidelines
-
-If you want to contribute to this project, please refer to the Contributing Guidelines.
-License
-
-This project has been assigned the MIT License, so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
+This project has been assigned the [MIT License](), so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
