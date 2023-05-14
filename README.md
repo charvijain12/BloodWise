@@ -46,17 +46,17 @@ if you are running the project locally, the project folder should be placed in t
 
 ### To login to the application
 - As admin
-```
+``
     username:   SuperAdmin
     
     password:   12345678
-```  
+``
 - As employee
-```
+``
     username:   test_user
     
     password:   qwertyuiop
-```
+``
 ## License
 
 This project is licensed under the `MIT License` - see the [License](https://github.com/charvijain12/Blood-Bank-Management-System/blob/main/LICENSE) file for details.
