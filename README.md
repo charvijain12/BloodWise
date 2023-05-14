@@ -59,4 +59,4 @@ if you are running the project locally, the project folder should be placed in t
 
 ## License
 
-This project has been assigned the [MIT License](), so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
+This project has been assigned the [https://github.com/charvijain12/Blood-Bank-Management-System/blob/main/LICENSE](LICENSE), so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
