@@ -2,7 +2,7 @@
 Mini Project for DBMS
 
 ## Getting Started
-Project made as part of VTU 5th sem ISE DBMS mini project. The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well. 
+The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well. 
 
 
 ### Project File Structure
