@@ -1,16 +1,16 @@
-# BloodWise: Blood Bank Management System
+# BloodWise: Blood Bank Management System 🩸
 
-Welcome to **BloodWise**, a mini project for Database Management Systems (DBMS) showcasing the structure of a blood bank management system. Please note that this project is intended to demonstrate the database structure and is not meant for use in a real web server. It does not provide robust security measures.
+Welcome to **BloodWise**, a mini project for Database Management Systems (DBMS) showcasing the structure of a blood bank management system. Please note that this project is intended to demonstrate the database structure and is not meant for use in a real web server. It does not provide robust security measures. 📊💉
 
-## Project Overview
+## Project Overview 📝
 
-### File Structure
+### File Structure 📂
 
-- `database/`: This folder contains a database file that can be used to set up the database.
-- `docs/`: Contains project document files. Please note that the documentation may not always reflect the exact behavior or features of the project due to ongoing updates.
-- `res/`: Contains project resources, including images, fonts, and icons.
+- `database/`: Contains a database file that can be used to set up the database.
+- `docs/`: Holds project documentation files. Please note that documentation might not always align precisely with project updates.
+- `res/`: Stores project resources like images, fonts, and icons.
 
-## Installation
+## Installation ⚙️
 
 Follow these steps to get started:
 
@@ -18,40 +18,40 @@ Follow these steps to get started:
 
 2. **Import the Database**: Import the `.db` file found in the `database` folder into the `blood_bank` database.
 
-3. **Run the Application**: If you are running the project locally, place the project folder in the directory that your Apache web server looks for files to serve (usually the `htdocs` folder). Then, run the application by accessing the URL `localhost/blood-bank`.
+3. **Run the Application**: If you're running the project locally, place the project folder in the directory where your Apache web server looks for files to serve (usually the `htdocs` folder). Then, access the application by navigating to the URL `localhost/blood-bank`.
 
-## Components
+## Components 🛠️
 
-### Languages
+### Languages 🖥️
 
 - PHP
 - CSS
 - SQL
 
-### Development Environment
+### Development Environment 🌐
 
 - Windows 10
 
-### External Resources/Plugins
+### External Resources/Plugins 📦
 
 - XAMPP
 - Visual Studio Code
 - Google Chrome
 
-## Accessing the Application
+## Accessing the Application 🔐
 
-To access the application, you can log in as follows:
+To access the application, you can log in as:
 
-- As an admin:
+- **Admin**:
   - Username: SuperAdmin
   - Password: 12345678
 
-- As an employee:
+- **Employee**:
   - Username: test_user
   - Password: qwertyuiop
 
-## License
+## License 📄
 
 This project is licensed under the `MIT License`. For more details, please refer to the [License](https://github.com/charvijain12/Blood-Bank-Management-System/blob/main/LICENSE) file.
 
-We hope you find **BloodWise** an informative project showcasing a blood bank management system's database structure. If you have any questions or require assistance, please don't hesitate to reach out.
+We hope you find **BloodWise** an informative project showcasing the database structure of a blood bank management system. If you have any questions or require assistance, please don't hesitate to reach out. 🙌
